@@ -1,0 +1,20 @@
+[LUT GOLEIN 1]
+MagiaSinefecto=0
+NoEncriptarMP=0
+BackUp= 0
+Pk=0
+[MTP]
+Name=Mertepe
+MusicNum=0
+MagiaSinefecto=0
+NoEncriptarMP=0
+Zona=CAMPO
+Restringir=No
+BackUp= 0
+Pk=0
+[MAPA11]
+Name=Largo
+MagiaSinefecto=0
+NoEncriptarMP=0
+BackUp= 0
+Pk=0

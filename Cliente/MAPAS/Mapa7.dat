@@ -1,0 +1,18 @@
+[MAPA2]
+Name=Nuevo Mapa
+MusicNum=0
+MagiaSinefecto=0
+NoEncriptarMP=0
+Terreno=BOSQUE
+Zona=CAMPO
+Restringir=No
+BackUp= 0
+Pk=0
+[MAPA7]
+Name=Caverna Oscura
+MagiaSinefecto=0
+NoEncriptarMP=0
+Zona=DUNGEON
+BackUp= 0
+Pk=0
+MusicNum=9

@@ -1,0 +1,23 @@
+[MAPA21]
+Name=Desierto
+MusicNum=10
+MagiaSinefecto=0
+NoEncriptarMP=0
+Terreno=DESIERTO
+Zona=CAMPO
+Restringir=No
+BackUp= 0
+Pk=0
+[MAPA3]
+MagiaSinefecto=0
+NoEncriptarMP=0
+BackUp= 0
+Pk=0
+Name=Castillo Volcánico
+MusicNum=18
+Zona=DUNGEON
+[MAPA5]
+MagiaSinefecto=0
+NoEncriptarMP=0
+BackUp= 0
+Pk=0
