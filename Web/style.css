@@ -1,0 +1,49 @@
+* {padding:0;margin:0;}
+a img{border:0;}
+body {color:white;font-family:trebuchet ms,verdana,tahoma,arial;font-size:10pt;width:100%;margin-top:0;background-color:black;}
+#logo {background:url(images/header.jpg) transparent no-repeat !important;width:600px;padding-top:30px;padding-left:170px;height:90px;vertical-align:middle;}
+.main {margin:auto;width:600px;}
+.header {text-align:left;width:500px;}
+.clear {clear:both;}
+a {color:#ffcd65;text-decoration:none;}
+a:hover {text-decoration:none;color:white;}
+#nav ,.tanke{width:400px;margin:auto;margin-left:50px;background: transparent;}
+#nav {margin-top:10px;margin-left:-80px;}
+.contenido {background: transparent;width:500px;margin:auto;}
+.asd{background:transparent url(images/btn-bg.gif) no-repeat scroll left top;color:#D3B672;display:block;font-size:14px;font-weight:bold;height:32px;line-height:32px;text-decoration:none;width:89px;float:left;text-align:center;font-family:"Trebuchet MS","arial";}
+#nav a {outline:0;background:transparent url(images/submit.gif) no-repeat scroll center top;border:none;color:#D8C18D;cursor:pointer;display:block;font-family:"Trebuchet MS";font-size:16px;font-weight:bold;height:41px;line-height:37px;margin:0 auto;text-decoration:none;width:130px;display:block;float:left;text-align:center;}
+.asd:hover{background-position:left bottom;color:#FFC000;}
+#nav a:hover {background-position:center bottom;color:#FFFF66;}
+#nav a.selected {text-decoration:underline;}
+.hiddencontent {display:none;padding-top:10px;padding-bottom:10px;}
+.ranktit {width:35px;padding:0 5px 0 5px;}
+.ranktit  a{text-decoration:none!important;color:#fcfcfc;}
+.rank {border:1px solid #333;background-color:#000;vertical-align:middle;text-align:center;padding:1px;border-spacing:1px;}
+.msj {padding:5px;border:1px solid #444!important;background:#444 url(images/444.gif) repeat-x!important;font-family:tahoma;font-size:8pt!important;font-weight:normal!important;text-align:left;}
+.rank td {border:1px solid #222;background-color:#111;font-family:trebuchet ms,arial;font-size:10pt;font-weight:bold;}
+.rank .rh {border:1px solid #333;background-color:#222;font-family:trebuchet ms,arial;font-size:10pt;font-weight:bold;}
+#tooltip{position:absolute;border:1px solid #FFE0A1;background:#333 url(images/back.jpg) repeat scroll 0 0;padding:2px 5px;display:none;-moz-border-radius:5px;}
+.bor {background: transparent url(images/izq-mini.jpg) repeat-y left top;}
+.top {background: left center repeat-x;}
+.tab {margin:auto;}
+h2 {color:#FFE081;font-family:"Book Antiqua","Palatino Linotype",Palatino,Times,serif;font-size:22px;font-weight:bold;line-height:20px;margin:0;padding-top:5px;text-decoration:none;}
+.caja {background:transparent url(images/back1.jpg) repeat scroll 0 0;cursor:default;margin-top:10px;width:100%;}
+.caja_l {background:transparent url(images/izq-mini.jpg) repeat-y scroll left center;}
+.caja_r {background:transparent url(images/der-mini.jpg) repeat-y scroll right center;}
+.caja_t {background:transparent url(images/up-mini.jpg) repeat-x scroll center top;}
+.caja_b {background:transparent url(images/down-mini.jpg) repeat-x scroll center bottom;padding:5px;}
+.caja_b div {text-align:justify;width:465px;color:#f0f0f0;margin:auto;}
+#formulario label {color:#FFF4DC;cursor:pointer;display:block;float:left;font-size:12px;margin:3px 15px 0 0;text-align:right;width:150px;}
+#formulario .input {background:transparent url(images/input_bg.gif) no-repeat scroll left top;color:white;display:block;float:left;height:25px;margin-bottom:20px;padding:0 5px;width:225px;}
+#formulario .input input {background:transparent none repeat scroll 0 0;border:medium none;color:#FFFFFF;font-weight:bold;height:17px;padding-top:3px;width:220px;}
+#formulario .textarea {background:transparent url(images/text_bg.gif) no-repeat scroll left top;color:white;display:block;float:left;font-size:10pt;height:102px;margin-bottom:5px;padding:0 5px;width:231px;}
+#formulario .textarea textarea {background:transparent none repeat scroll 0 0;border:medium none;color:#FFFFFF;font-family:Verdana,Arial,Helvetica,sans-serif;font-weight:bold;height:94px;overflow:auto;padding-top:3px;width:220px;}
+#formulario #Submit:hover {background-position:center bottom;color:#FFFF66;}
+#formulario #Submit {background:transparent url(images/submit.gif) no-repeat scroll center top;border:none;color:#D8C18D;cursor:pointer;display:block;font-family:"Trebuchet MS";font-size:16px;font-weight:bold;height:41px;line-height:37px;margin:0 auto;text-decoration:none;width:130px;}
+h1 {color:#EDBA1E;font-family:"Book Antiqua","Palatino Linotype",Palatino,Times,serif;font-size:20pt;}
+select {border:1px solid #432;background-color:#000;color:white;}
+.boto {border:1px solid #654;background-color:#111;color:white;text-decoration:none;}
+.boto:hover {border:1px solid #987;background-color:#222;color:white;text-decoration:underline;}
+.r1c0, .rica{padding:3px;display:block;}
+.r1c0 {color:#ffcd65;float:left;}
+.rica {color:#ccc;float:right;}
